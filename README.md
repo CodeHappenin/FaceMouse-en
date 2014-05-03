@@ -1,4 +1,7 @@
-FaceMouse-en
-============
+FaceMouse
+=============
 
-FaceMouse is an application that allows you to move the screen cursor with your head, aimed to people with psychomotor disabilities. Here you will find the source code of the app as shown on www.vostlink.com
+![Image not found](http://codehappen.in/img/facemouse.jpg)
+
+This is the GitHub page for the project FaceMouse (http://codehappen.in/page/project/facemouse).  
+Esta es la página de GitHub para el proyecto FaceMouse (http://codehappen.in/page/project/facemouse).
